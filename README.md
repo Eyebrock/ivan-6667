@@ -1,8 +1,8 @@
 Instalación
 
 bash
-git clone <url-del-repositorio>
-cd <carpeta-del-proyecto>
+git clone "url del repo"
+cd "carpeta-del-proyecto"
 
 cd server
 npm install
